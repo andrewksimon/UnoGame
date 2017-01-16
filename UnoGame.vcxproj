@@ -19,20 +19,20 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bag.h" />
-    <ClInclude Include="CircularDoublyLinkedList.h" />
-    <ClInclude Include="LinkedList.h" />
-    <ClInclude Include="List.h" />
-    <ClInclude Include="OrderedList.h" />
-    <ClInclude Include="Queue.h" />
-    <ClInclude Include="Stack.h" />
-    <ClInclude Include="StandardFunctors.h" />
-    <ClInclude Include="UnoCard.h" />
-    <ClInclude Include="UnoGame.h" />
-    <ClInclude Include="UnoPlayer.h" />
+    <ClInclude Include="Source Files\Bag.h" />
+    <ClInclude Include="Source Files\CircularDoublyLinkedList.h" />
+    <ClInclude Include="Source Files\LinkedList.h" />
+    <ClInclude Include="Source Files\List.h" />
+    <ClInclude Include="Source Files\OrderedList.h" />
+    <ClInclude Include="Source Files\Queue.h" />
+    <ClInclude Include="Source Files\Stack.h" />
+    <ClInclude Include="Source Files\StandardFunctors.h" />
+    <ClInclude Include="Source Files\UnoCard.h" />
+    <ClInclude Include="Source Files\UnoGame.h" />
+    <ClInclude Include="Source Files\UnoPlayer.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Source Files\main.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{6118B113-DC40-43CE-A8D4-FFE4D1A783D6}</ProjectGuid>

@@ -15,42 +15,42 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bag.h">
+    <ClInclude Include="Source Files\Bag.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CircularDoublyLinkedList.h">
+    <ClInclude Include="Source Files\CircularDoublyLinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="LinkedList.h">
+    <ClInclude Include="Source Files\LinkedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="List.h">
+    <ClInclude Include="Source Files\List.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="OrderedList.h">
+    <ClInclude Include="Source Files\OrderedList.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Queue.h">
+    <ClInclude Include="Source Files\Queue.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Stack.h">
+    <ClInclude Include="Source Files\Stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="StandardFunctors.h">
+    <ClInclude Include="Source Files\StandardFunctors.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="UnoCard.h">
+    <ClInclude Include="Source Files\UnoCard.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="UnoGame.h">
+    <ClInclude Include="Source Files\UnoGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="UnoPlayer.h">
+    <ClInclude Include="Source Files\UnoPlayer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="Source Files\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
